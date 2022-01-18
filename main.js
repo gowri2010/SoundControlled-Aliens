@@ -5,7 +5,7 @@ function startClassification()
 }
 
 function modelReady(){
-    classifier.classify(gotResults);
+    classifier.classify('gotResults');
 }
 
 function gotResults(error, results) {
