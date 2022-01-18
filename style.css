@@ -27,7 +27,7 @@ main_div button{
 }
 
 .copy_right_footer {
-    position:fixed
+    position: fixed;
     color: #6c757d;
     bottom: 0;
     width: 100%;
